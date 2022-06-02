@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Evan.
 - 👀 I’m interested in coding!
-- 🌱 I’m currently learning better language selection and version control!
+- 🌱 I’m currently learning React!
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: ephil50@gmail.com
 
