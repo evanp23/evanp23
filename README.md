@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Evan.
-- 👀 I’m interested in coding!
+- 👀 I’m interested in solving complex problems with code!
 - 🌱 I’m currently learning React!
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: ephil50@gmail.com
