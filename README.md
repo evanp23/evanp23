@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Evan.
 - 👀 I’m interested in solving complex problems with code!
-- 🌱 I’m currently learning full (MERN) stack web development. RESTful APIs and reactive front ends.
+- 🌱 I’m currently learning full (MERN) stack web development. RESTful APIs and responsive UIs.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: ephil50@gmail.com
 
